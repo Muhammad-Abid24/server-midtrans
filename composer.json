@@ -1,6 +1,5 @@
 {
     "require": {
-        "beste/json": "^1.2",
-        "kreait/firebase-php": "^7.0"
+        "kreait/firebase-php": "^7.6"
     }
 }
